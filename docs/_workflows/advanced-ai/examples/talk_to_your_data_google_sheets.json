@@ -106,7 +106,7 @@
       "parameters": {
         "width": 528,
         "height": 1168,
-        "content": "## 🎥 Watch This Tutorial\n\n@[youtube](qsrVPdo6svc)\n\n\n### 1. Set Up OpenAI Connection\n\n#### Get Your API Key\n1. Visit the [OpenAI API Keys](https://platform.openai.com/api-keys) page.\n2. Go to [OpenAI Billing](https://platform.openai.com/settings/organization/billing/overview).\n3. Add funds to your billing account.\n4. Copy your API key into your **OpenAI credentials** in n8n (or your chosen platform).\n\n---\n### 2. Prepare Your Google Sheet\n\n#### Connect Your Data in Google Sheets\n- Data must follow this format: [Sample Marketing Data](https://docs.google.com/spreadsheets/d/1UDWt0-Z9fHqwnSNfU3vvhSoYCFG6EG3E-ZewJC_CLq4/edit?gid=365710158#gid=365710158)\n- **First row** contains column names.\n- Data should be in **rows 2–100**.\n- Log in using **OAuth**, then select your workbook and sheet.\n\n---\n### 3. Ask Questions of Your Data\n\nYou can ask natural language questions to analyze your marketing data, such as:\n- **Total spend** across all campaigns.\n- **Spend for Paid Search only**.\n- **Month-over-month changes** in ad spend.\n- **Top-performing campaigns** by conversion rate.\n- **Cost per lead** for each channel.\n\n---\n## 📬 Need Help or Want to Customize This?\n📧 [rbreen@ynteractive.com](mailto:robert@ynteractive.com)  \n🔗 [LinkedIn](https://www.linkedin.com/in/robert-breen-29429625/)\n\n"
+        "content": "## 🎥 Watch This Tutorial\n\n@[youtube](qsrVPdo6svc)\n\n\n### 1. Set Up OpenAI Connection\n\n#### Get Your API Key\n1. Visit the [OpenAI API Keys](https://platform.openai.com/api-keys) page.\n2. Go to [OpenAI Billing](https://platform.openai.com/settings/organization/billing/overview).\n3. Add funds to your billing account.\n4. Copy your API key into your **OpenAI credentials** in n8n (or your chosen platform).\n\n---\n### 2. Prepare Your Google Sheet\n\n#### Connect Your Data in Google Sheets\n- Data must follow this format: [Sample Marketing Data](https://docs.google.com/spreadsheets/d/1UDWt0-Z9fHqwnSNfU3vvhSoYCFG6EG3E-ZewJC_CLq4/edit?gid=365710158#gid=365710158)\n- **First row** contains column names.\n- Data should be in **rows 2–100**.\n- Log in using **OAuth**, then select your workbook and sheet.\n\n---\n### 3. Ask Questions of Your Data\n\nYou can ask natural language questions to analyze your marketing data, such as:\n- **Total spend** across all campaigns.\n- **Spend for Paid Search only**.\n- **Month-over-month changes** in ad spend.\n- **Top-performing campaigns** by conversion rate.\n- **Cost per lead** for each channel.\n\n---\n## 📬 Need Help or Want to Customize This?\n📧 [rbreen@ynteractive.com](mailto:rbreen@ynteractive.com)  \n🔗 [LinkedIn](https://www.linkedin.com/in/robert-breen-29429625/)\n\n"
       },
       "typeVersion": 1
     },
@@ -179,7 +179,7 @@
         "color": 7,
         "width": 512,
         "height": 432,
-        "content": ""
+        "content": "## Try it out\n\nSelect **Chat** at the bottom and enter:\n\n_What is the total spend across all campaigns?_"
       },
       "typeVersion": 1
     }
