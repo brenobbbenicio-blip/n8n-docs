@@ -235,6 +235,7 @@ nav:
         - n8n Form Trigger: integrations/builtin/core-nodes/n8n-nodes-base.formtrigger.md
         - n8n Trigger: integrations/builtin/core-nodes/n8n-nodes-base.n8ntrigger.md
         - integrations/builtin/core-nodes/n8n-nodes-base.noop.md
+        - PDF Toolkit: integrations/builtin/core-nodes/n8n-nodes-base.pdftoolkit.md
         - integrations/builtin/core-nodes/n8n-nodes-base.readwritefile.md
         - Remove Duplicates:
           - integrations/builtin/core-nodes/n8n-nodes-base.removeduplicates/index.md
